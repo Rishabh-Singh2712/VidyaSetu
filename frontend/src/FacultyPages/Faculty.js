@@ -38,7 +38,8 @@ function Faculty() {
           <div className="col-10 p-5 shadow bg-white rounded">
             <center>
               <span className='fw-bolder fs-1'>
-                <h3><i className="bi bi-person-square"></i> &nbsp;Faculty Dashboard</h3>
+                <h3 style={{ padding: '50px 0' }}>
+                <i className="bi bi-person-square"></i> &nbsp;Faculty Dashboard</h3>
               </span>
             </center>
             <br />
